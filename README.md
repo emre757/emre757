@@ -30,9 +30,9 @@ Ik ben een student die erg geintereseert is over programmeren en technologie. In
 ## 📊 Statistieken
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jouw-gebruikersnaam&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=emre757&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jouw-gebruikersnaam&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emre757&theme=radical" alt="GitHub Streak">
 </div>
 
 ---
