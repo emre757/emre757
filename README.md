@@ -1,13 +1,18 @@
-# 🌟 Welkom op mijn GitHub-profiel!
+# 👤 Welkom op mijn GitHub-profiel!
 
 ---
 
 ## 👋 Over Mij  
 **Naam:** Emre Ugurlu
-**Opleiding:** Bit Academy
-**Studie:** MBO Software Development 
+**Studie:** MBO Software Development (Bit Academy)
 
 Ik ben een student die erg geintereseert is over programmeren en technologie. In mijn vrije tijd hou ik ervan om aan me eigen projecten te werken en meer nieuwe code talen te leren.
+
+---
+
+## 📱 Contact  
+- **E-mail:** [example@example.com](mailto:example@example.com)  
+- **LinkedIn:** [LinkedIn-profiel](https://linkedin.com)  
 
 ---
 
@@ -21,9 +26,9 @@ Ik ben een student die erg geintereseert is over programmeren en technologie. In
 ---
 
 ## 🎯 Mijn Doelen
-- 🚀 Beter worden in **cybersecurity**.  
-- 💡 Samenwerken aan **open-source projecten**.  
-- 🎮 Beter worden met **fullstack development**.  
+- Beter worden met **fullstack development**.  
+- **Cybersecurity** leren en beter worden.  
+- Samenwerken aan **grote projecten**.  
 
 ---
 
@@ -34,12 +39,6 @@ Ik ben een student die erg geintereseert is over programmeren en technologie. In
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emre757&theme=radical" alt="GitHub Streak">
 </div>
-
----
-
-## 📫 Contact  
-- **E-mail:** [example@example.com](mailto:example@example.com)  
-- **LinkedIn:** [LinkedIn-profiel](https://linkedin.com)  
 
 ---
 
